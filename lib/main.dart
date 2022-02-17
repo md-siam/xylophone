@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'xylophone_app.dart';
+import 'src/xylophone_app.dart';
 
 void main() {
   // For disabling landscape view
